@@ -1,29 +1,48 @@
 # VueTasks
 
-This template should help get you started developing with Vue 3 in Vite.
+Organize your tasks with this modern and responside WebApp.
 
-## Recommended IDE Setup
+Developed with Vue and prepared to run.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Requirements
 
-## Customize configuration
+* NPM
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Installation
 
-## Project Setup
+1. Clone the current repository:
 
-```sh
+```bash
+git clone https://github.com/cromega08/VueTasks.git
+```
+
+2. Mode to project directory and install dependencies:
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+3. Start a "dev" or "build" server with "npm":
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
+```bash
 npm run build
 ```
+
+4. Connect to the server and done!
+
+## Contributing
+
+Contributions are always welcome!
+
+Feel free to "Fork" or clone, and push your changes to the repository.
+
+All commits are reviewed.
+
+## Authors
+
+* [@Cromega08](https://www.github.com/cromega08)
+
+## License
+
+* [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0)
+
